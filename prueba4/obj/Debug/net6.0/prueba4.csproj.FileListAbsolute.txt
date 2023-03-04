@@ -1,0 +1,15 @@
+C:\Users\juanc\source\repos\prueba4\bin\Debug\net6.0\prueba4.exe
+C:\Users\juanc\source\repos\prueba4\bin\Debug\net6.0\prueba4.deps.json
+C:\Users\juanc\source\repos\prueba4\bin\Debug\net6.0\prueba4.runtimeconfig.json
+C:\Users\juanc\source\repos\prueba4\bin\Debug\net6.0\prueba4.dll
+C:\Users\juanc\source\repos\prueba4\bin\Debug\net6.0\prueba4.pdb
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.csproj.AssemblyReference.cache
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.AssemblyInfoInputs.cache
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.AssemblyInfo.cs
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.csproj.CoreCompileInputs.cache
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.dll
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\refint\prueba4.dll
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.pdb
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\prueba4.genruntimeconfig.cache
+C:\Users\juanc\source\repos\prueba4\obj\Debug\net6.0\ref\prueba4.dll
